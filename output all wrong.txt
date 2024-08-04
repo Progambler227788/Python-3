@@ -1,0 +1,115 @@
+Enter username:PGR107
+Enter password:Python
+Valid Credentials.
+Q1: What is the capital of Norway?
+a. Bergen
+b. Oslo
+c. Stavanger
+d. Trondheim
+Enter Option for correct answer (a, b, c, d): c
+
+Q2: What is the currency of Norway?
+a. Euro
+b. Pound
+c. Krone
+d. Deutsche Mark
+Enter Option for correct answer (a, b, c, d): a
+
+Q3: What is the largest city in Norway?       
+a. Oslo
+b. Stavanger
+c. Bergen
+d. Trondheim
+Enter Option for correct answer (a, b, c, d): d
+
+Q4: When is constitution day (the national day) of Norway?
+a. 27th May
+b. 17th May
+c. 17th April
+d. 27th April
+Enter Option for correct answer (a, b, c, d): a
+
+Q5: What color is the background of the Norwegian flag?
+a. Red
+b. White
+c. Blue
+d. Yellow
+Enter Option for correct answer (a, b, c, d): c
+
+Q6: How many countries does Norway border?
+a. 1
+b. 2
+c. 3
+d. 4
+Enter Option for correct answer (a, b, c, d): a
+
+Q7: What is the name of the university in Trondheim?
+a. UiS
+b. UiO
+c. NMBU
+d. NTNU
+Enter Option for correct answer (a, b, c, d): a
+
+Q8: How long is the border between Norway and Russia?
+a. 96 km
+b. 196 km
+c. 296 km
+d. 396 km
+Enter Option for correct answer (a, b, c, d): d
+
+Q9: Where in Norway is Stavanger?
+a. North
+b. South
+c. South-west
+d. South-east
+Enter Option for correct answer (a, b, c, d): a
+
+Q10: From which Norwegian city did the world’s famous composer Edvard Grieg come?
+a. Oslo
+b. Bergen
+c. Stavanger
+d. Troms
+Enter Option for correct answer (a, b, c, d): a
+
+Quiz Results:
+Correct Answers: 0
+Wrong Answers: 10
+Question: What is the capital of Norway?
+Correct Answer: Oslo
+User Answer: Stavanger
+
+Question: What is the currency of Norway?
+Correct Answer: Krone
+User Answer: Euro
+
+Question: What is the largest city in Norway?
+Correct Answer: Oslo
+User Answer: Trondheim
+
+Question: When is constitution day (the national day) of Norway?
+Correct Answer: 17th May
+User Answer: 27th May
+
+Question: What color is the background of the Norwegian flag?
+Correct Answer: Red
+User Answer: Blue
+
+Question: How many countries does Norway border?
+Correct Answer: 3
+User Answer: 1
+
+Question: What is the name of the university in Trondheim?
+Correct Answer: NTNU
+User Answer: UiS
+
+Question: How long is the border between Norway and Russia?
+Correct Answer: 196 km
+User Answer: 396 km
+
+Question: Where in Norway is Stavanger?
+Correct Answer: South-west
+User Answer: North
+
+Question: From which Norwegian city did the world’s famous composer Edvard Grieg come?
+Correct Answer: Bergen
+User Answer: Oslo
